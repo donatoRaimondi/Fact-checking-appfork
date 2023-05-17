@@ -9,7 +9,15 @@ Database
 1. Scaricare o clonare il repository su una directory locale.
 2. Aprire il terminale e posizionarsi nella directory del progetto.
 3. Creare un ambiente virtuale utilizzando il comando: python -m venv venv
-4. Attivare l'ambiente virtuale utilizzando il comando: source venv/bin/activate (per Linux/Mac) o venv\Scripts\activate (per Windows)
+4. Attivare l'ambiente virtuale utilizzando il comando:
+per Linux/Mac
+```python
+source venv/bin/activate
+``` 
+o per Windows 
+```python
+venv\Scripts\activate
+``` 
 5. Installare le dipendenze utilizzando il comando: pip install -r requirements.txt
 6. Creare il database utilizzando il comando: flask init-db
 7. Avviare l'applicazione utilizzando il comando: flask run

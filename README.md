@@ -16,10 +16,9 @@ Database
 ## Utilizzo
 Dopo aver avviato l'applicazione, è possibile accedere all'applicazione nel browser web all'indirizzo http://localhost:5000/
 ## Struttura del progetto
--app.py: il file principale dell'applicazione Flask.
-<> -models.py: il file che definisce il database e le tabelle.
--routes.py: il file che definisce le rotte dell'applicazione.
--templates/: la directory che contiene i file HTML del progetto.
--static/: la directory che contiene i file statici del progetto (CSS, JS, immagini, ecc.).
--tests/: la directory che contiene i file di test dell'applicazione.
--requirements.txt: il file che elenca le dipendenze del progetto.
+- app.py: il file principale dell'applicazione Flask.
+- routes.py: il file che definisce le rotte dell'applicazione.
+- templates/: la directory che contiene i file HTML del progetto.
+- static/: la directory che contiene i file statici del progetto (CSS, JS, immagini, ecc.).
+- tests/: la directory che contiene i file di test dell'applicazione.
+- requirements.txt: il file che elenca le dipendenze del progetto.

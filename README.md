@@ -1,5 +1,4 @@
 # Fact-checking-app
----
 ## Introduzione
 L'applicazione consente agli utenti di inserire una notizia e di verificare la sua veridicità.
 ## Requisiti
@@ -7,13 +6,13 @@ Python 3.x
 Flask
 Database
 ## Installazione
-1.Scaricare o clonare il repository su una directory locale.
-2.Aprire il terminale e posizionarsi nella directory del progetto.
-3.Creare un ambiente virtuale utilizzando il comando: python -m venv venv
-4.Attivare l'ambiente virtuale utilizzando il comando: source venv/bin/activate (per Linux/Mac) o venv\Scripts\activate (per Windows)
-5.Installare le dipendenze utilizzando il comando: pip install -r requirements.txt
-6.Creare il database utilizzando il comando: flask init-db
-7.Avviare l'applicazione utilizzando il comando: flask run
+1. Scaricare o clonare il repository su una directory locale.
+2. Aprire il terminale e posizionarsi nella directory del progetto.
+3. Creare un ambiente virtuale utilizzando il comando: python -m venv venv
+4. Attivare l'ambiente virtuale utilizzando il comando: source venv/bin/activate (per Linux/Mac) o venv\Scripts\activate (per Windows)
+5. Installare le dipendenze utilizzando il comando: pip install -r requirements.txt
+6. Creare il database utilizzando il comando: flask init-db
+7. Avviare l'applicazione utilizzando il comando: flask run
 ## Utilizzo
 Dopo aver avviato l'applicazione, è possibile accedere all'applicazione nel browser web all'indirizzo http://localhost:5000/
 ## Struttura del progetto

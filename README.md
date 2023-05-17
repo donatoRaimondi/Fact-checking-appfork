@@ -9,12 +9,11 @@ Database
 1. Scaricare o clonare il repository su una directory locale.
 2. Aprire il terminale e posizionarsi nella directory del progetto.
 3. Creare un ambiente virtuale utilizzando il comando: python -m venv venv
-4. Attivare l'ambiente virtuale utilizzando il comando:
-per Linux/Mac
+4. Attivare l'ambiente virtuale utilizzando il comando: per Linux/Mac
 ```python
 source venv/bin/activate
 ``` 
-o per Windows 
+   o per Windows 
 ```python
 venv\Scripts\activate
 ``` 

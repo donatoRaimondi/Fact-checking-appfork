@@ -2,9 +2,9 @@
 ## Introduzione
 L'applicazione consente agli utenti di inserire una notizia e di verificare la sua veridicità.
 ## Requisiti
-Python 3.x
-Flask
-Database
+- Python 3.x
+- Flask
+- Database
 ## Installazione
 1. Scaricare o clonare il repository su una directory locale.
 2. Aprire il terminale e posizionarsi nella directory del progetto.

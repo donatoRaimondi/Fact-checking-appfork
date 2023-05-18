@@ -4,7 +4,7 @@ L'applicazione consente agli utenti di inserire una notizia e di verificare la s
 ## Requisiti
 - Python 3.x
 - Flask
-- Database
+- SQLAlchemy
 ## Installazione
 1. Scaricare o clonare il repository su una directory locale.
 2. Aprire il terminale e posizionarsi nella directory del progetto.
@@ -19,8 +19,7 @@ source venv/bin/activate
 venv\Scripts\activate
 ``` 
 5. Installare le dipendenze utilizzando il comando: pip install -r requirements.txt
-6. Creare il database utilizzando il comando: flask init-db
-7. Avviare l'applicazione utilizzando il comando: flask run
+6. Avviare l'applicazione utilizzando il comando: flask run
 ## Utilizzo
 Dopo aver avviato l'applicazione, è possibile accedere all'applicazione nel browser web all'indirizzo http://localhost:5000/
 ## Struttura del progetto
